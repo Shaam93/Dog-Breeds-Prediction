@@ -2,9 +2,9 @@
 Predict the dogs breeds and fun application by finding dogs, and humans in images then finding the most similar dog breed to a human in an image
 
 **Introductory abou the repository:**
+
 We first do dog detection in images
 then human face detection in images using Haar cascade (from opencv)
-then we create a classifier using vgg16
 then a classifier from scratch
 then a classifier suing pretrained models
 Later we create a small algorithm for a fun application where we test new images:
@@ -14,6 +14,7 @@ Later we create a small algorithm for a fun application where we test new images
 
 In this repository Pytorch is used.
 **Requirments:** 
+
  -torch
  -Numpy
  -opencv (cv2)
